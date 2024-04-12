@@ -10,7 +10,7 @@ _Jing Li,‡ Estelle Léonce,‡ Corentin Coutellier,‡ Céline Boutin,‡ Kév
 --------------
 
 You'll find here :
-- DOSY.txt : TOPSPIN pulse program for the used HP 129Xe DOSY experiments ;
+- SelfDiffusion.txt : TOPSPIN pulse program for the used HP 129Xe self-diffusion experiments ;
 - EXSY.txt : TOPSPIN pulse program for the used HP 129Xe EXSY experiments ;
 - PorousInsert.STL : The 3D-printed insert used in the manuscript ;
 - PorousFunnel.STL : A 3D-printed funnel to fill the insert ;
