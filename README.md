@@ -1,4 +1,4 @@
-Resources for the manuscript : _An integrated stopped-flow device for the study of porous materials using hyperpolarized 129Xe NMR_
+Resources for the manuscript : _An integrated stopped-flow device for the study of porous materials using hyperpolarized <sup>129</sup>Xe NMR_
 ------------------
 
 _Jing Li,‡ Estelle Léonce,‡ Corentin Coutellier,‡ Céline Boutin,‡ Kévin Chighine,‡ Charles Rivron,‡ Anne Davidson,§ and Patrick Berthault‡*_
