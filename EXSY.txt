@@ -1,0 +1,28 @@
+;P.BERTHAULT 09/23
+;avance-version
+;from noesyph
+
+#include <Avance.incl>
+
+"in0=inf1"
+
+
+1 ze
+  30m 
+2 d1 setnmr3|28							; Activate syringe pump and open gas circuit	
+  d10 									; push duration
+  20u setnmr3^28							; Stop syringe pump and close circuit
+4 d1
+  p1 ph1 
+  d0
+  p1 ph2
+  d8
+  p1 ph3        
+  go=2 ph31
+  d11 mc #0 to 2 F1PH(calph(ph1, +90), caldel(d0, +in0)) 
+exit
+
+ph1=(360) 45 225
+ph2=0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2
+ph3=0 0 2 2 1 1 3 3 
+ph31=0 2 2 0 1 3 3 1 2 0 0 2 3 1 1 3
